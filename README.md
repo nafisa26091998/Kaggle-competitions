@@ -1,2 +1,2 @@
 # Kaggle-competitions
-List of Kaggle competitions I participated
+List of Kaggle competitions I participated.
